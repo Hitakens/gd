@@ -1,0 +1,156 @@
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	font-size: 13pt;
+}
+
+.nvl-top, .lbt-nal, .model-zj, .buton-db {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.layui-nav-zdy {
+	background-color: #00418F;
+}
+
+.layui-nav-item-zdy {
+	height: 40px;
+	line-height: 40px;
+}
+
+.img-nav {
+	width: 60%;
+	height: 60px;
+}
+
+.layui-nav-child-zdy {
+	top: 45px;
+}
+
+.model-zj {
+	height: 400px;
+}
+
+.model-left, .model-rigit {
+	height: 400px;
+	float: left;
+}
+
+.model-left {
+	width: 24.8%;
+	text-align: center;
+}
+
+.model-rigit {
+	width: 75%;
+}
+
+.model-hr {
+	float: left;
+	width: 2px;
+	height: 400px;
+}
+
+.model-hr-1 {
+	height: 300px;
+	margin-top: 48px;
+}
+
+.buton-db {
+	height: 80px;
+	margin-top: 7px;
+	background-color: #929393;
+	text-align: center;
+	line-height: 80px;
+}
+
+.model-left-ul {
+	margin-top: 50px;
+	line-height: 30px;
+}
+
+.xxk-img {
+	width: 150px;
+	height: 100px;
+}
+
+.model-rigit-cpys {
+	text-align: center;
+	margin-top: 25px;
+	color: #00418F;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+.layui-tab-ite-zdy1 ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height: auto;
+	border-top: 0px;
+	margin-top: 15px;
+	text-align:center;
+}
+
+.layui-tab-ite-zdy1 ul li {
+	display: block;
+	width: 25%;
+	float: left;
+	font-size: 13px;
+	text-align:center;
+	text-overflow:inherit;
+}
+.model-rigit-li{
+	color: #00418F;
+	font-weight: bold;
+	margin-top: 5px;
+}
+.model-rigit-p{
+	width: 150px;
+	height: auto;
+	text-align: left;
+	margin: 0 auto;
+	margin-top: 5px;
+	margin-left: 25px;
+	font-size: 15px;
+	letter-spacing: 3px;
+}
+.syal-title{
+  width: 33.33333333333333333%;
+	height: auto;
+	margin: 0 auto;	
+	margin-top: 15px;
+	color: gray;
+}
+.syal{
+	width: 33.33333333333333333%;
+	height: 300px;
+	float: left;
+	margin: 0 auto;	
+}
+.fhbc{
+	margin-left: -300px;
+}
+.dbt{
+	position: relative;
+	right: -250px;
+	
+}
+.xwtp{
+	width: 18%;
+	height: 300px;
+	float: left;
+}
+.xwtp1{
+	width: 70%;
+	height: 300px;
+	float: left;
+
+}
+.span-tome{
+	position: absolute;
+	right: 220px;
+	margin-top: 20px;
+}
