@@ -17,6 +17,7 @@
 .layui-nav-item-zdy {
 	height: 40px;
 	line-height: 40px;
+	margin-left: 20px;
 }
 
 .img-nav {
@@ -29,7 +30,7 @@
 }
 
 .model-zj {
-	height: 400px;
+	height: 600px;
 }
 
 .model-left, .model-rigit {
@@ -53,7 +54,7 @@
 }
 
 .model-hr-1 {
-	height: 300px;
+	height: 500px;
 	margin-top: 48px;
 }
 
@@ -71,16 +72,17 @@
 }
 
 .xxk-img {
-	width: 150px;
-	height: 100px;
+	width: 260px;
+	height: 150px;
 }
 
 .model-rigit-cpys {
-	text-align: center;
+	width:80%;
 	margin-top: 25px;
 	color: #00418F;
 	font-weight: bold;
 	letter-spacing: 2px;
+	text-align: center;
 }
 
 .layui-tab-ite-zdy1 ul {
@@ -91,7 +93,7 @@
 	height: auto;
 	border-top: 0px;
 	margin-top: 15px;
-	text-align:center;
+	text-align: center;
 }
 
 .layui-tab-ite-zdy1 ul li {
@@ -99,58 +101,107 @@
 	width: 25%;
 	float: left;
 	font-size: 13px;
-	text-align:center;
-	text-overflow:inherit;
+	text-align: center;
+	text-overflow: inherit;
 }
-.model-rigit-li{
+
+.model-rigit-li {
 	color: #00418F;
 	font-weight: bold;
 	margin-top: 5px;
+	width: 260px;
+	text-align: center;
 }
-.model-rigit-p{
-	width: 150px;
+
+.model-rigit-p {
+	width: 240px;
 	height: auto;
 	text-align: left;
-	margin: 0 auto;
 	margin-top: 5px;
 	margin-left: 25px;
 	font-size: 15px;
 	letter-spacing: 3px;
+	text-align: center;
+	font-style: normal;
 }
-.syal-title{
-  width: 33.33333333333333333%;
+
+.syal-title {
+	width: 33.33333333333333333%;
 	height: auto;
-	margin: 0 auto;	
+	margin: 0 auto;
 	margin-top: 15px;
 	color: gray;
 }
-.syal{
+
+.syal {
 	width: 33.33333333333333333%;
 	height: 300px;
 	float: left;
-	margin: 0 auto;	
+	margin: 0 auto;
 }
-.fhbc{
+
+.fhbc {
 	margin-left: -300px;
 }
-.dbt{
+
+.dbt {
 	position: relative;
 	right: -250px;
-	
 }
-.xwtp{
+
+.xwtp {
 	width: 18%;
 	height: 300px;
 	float: left;
 }
-.xwtp1{
+
+.xwtp1 {
 	width: 70%;
 	height: 300px;
 	float: left;
-
 }
-.span-tome{
+
+.span-tome {
 	position: absolute;
 	right: 220px;
 	margin-top: 20px;
+}
+
+.em-gs {
+	font-style: normal;
+	color: #c00;
+}
+
+.lxwm {
+	margin-top: 25px;
+}
+
+#layui-tab-item12 {
+	margin-top: 35px;
+}
+
+.bcsyal {
+	margin-top: 5px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.shuli {
+	margin: 0 auto;
+	width: 20px;
+	line-height: 20px;
+	float: left;
+	margin: 0 auto;
+	margin-left: 50px;
+}
+.img1,.img2{
+	float: left;
+	width: 40%;
+	height: auto;
+}
+.ysimg1,.ysimg2,.ysimg3,.ysimg4{
+	width: 50%;
+	height: 260px;
+	float: left;
+    margin: 0 auto;
 }
